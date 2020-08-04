@@ -4,7 +4,9 @@ In this System, I use django for handling all the backend work and also using re
 There are three main modules :
 
 -->Admin:
+
     It is responsible for doing the work related to the admin Like:
+
       ->Viewing personal detail.
       ->Changing the user and Teacher detail.
       ->Providing attendance of teacher
