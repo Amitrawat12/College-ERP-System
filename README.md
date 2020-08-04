@@ -17,7 +17,9 @@ There are three main modules :
       ->Providing Notification.
       
   -->Teacher:
+   
     It is responsible for doing the work related to the admin Like:
+       
       ->Viewing personal detail.
       ->Providing attendance of Student.
       ->Viewing self attendance.
@@ -27,6 +29,7 @@ There are three main modules :
       
         
   -->Student:
+   
     It is responsible for doing the work related to the admin Like:
       ->Viewing personal detail.
       ->Viewing self attendance.
@@ -36,6 +39,7 @@ There are three main modules :
       
       
   Tech used:
-        Django(Python) for backend.
-        Django templates for front end with the help of HTML,CSS,BOOTSTRAP.
+      
+      Django(Python) for backend.
+      Django templates for front end with the help of HTML,CSS,BOOTSTRAP.
         
